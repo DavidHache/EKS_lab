@@ -1,4 +1,10 @@
 Prepare the environment.
 
-$ source .venv/bin/activate
-$ pip install -r requirements.txt
+
+
+```console
+
+foo@bar:~$ python -m venv .venv/
+foo@bar:~$ source .venv/bin/activate
+foo@bar:~$ pip install -r requirements.txt
+```
