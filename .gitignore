@@ -131,3 +131,9 @@ dmypy.json
 
 # CDK stuff
 cdk.out/
+
+# Kubernetes Stuff
+kubeconfig_
+
+#powerpoint
+*.pptx
