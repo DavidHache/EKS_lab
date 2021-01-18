@@ -137,3 +137,5 @@ kubeconfig_
 
 #powerpoint
 *.pptx
+
+.DS_Store
